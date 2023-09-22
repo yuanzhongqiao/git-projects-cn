@@ -14,6 +14,11 @@
 <h3 align="center">欢迎支持</h3>
 
 
+<h3>低代码平台</h3>
+
+1
+
+
 <h3>科学研究</h3>
 
 
@@ -39,3 +44,6 @@
 1: 能够替代MongoDB的开源数据库  http://www.gitpp.com/ferretblue/FerretDB
 
 
+<h3> ERP </h3>
+
+1： 全球第一的开源ERP系统，中国国内有很多人拿这个赚钱，已经成红海   国内镜像  http://www.gitpp.com/issacton/odoo
