@@ -18,14 +18,19 @@
 <h3 align="center">欢迎支持</h3>
 
 
+
 <h3>企业应用</h3>
 
-1： 现代化、开源的 Linux 服务器运维管理面板  1panel 国内镜像  http://www.gitpp.com/tomsonball/1Panel
+1： 现代化、开源的 Linux 服务器运维管理面板  1panel 国内镜像  http://www.gitpp.com/tomsonball/1Panel  推荐星际五星
+
+2:  全球最大开源数据管理系统    http://www.gitpp.com/ckansong/ckan
+
 
 
 <h3>开发平台</h3>
 
 1: DevOpsGPT-AI驱动的智能软件开发平台 :   国内镜像 http://www.gitpp.com/fellagotone/DevOpsGPT
+
 
 
 <h3>【数据库】</h3>
