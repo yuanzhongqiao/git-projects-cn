@@ -12,10 +12,18 @@
 <h4 align="center">持续更新！欢迎star！😀😀😀</h4>
 
 
-持续更新！欢迎支持！😀😀😀 后续会向国内多所大学提供免费公益服务，希望大家一起来！
+持续更新！欢迎支持！😀😀😀 蚂蚁搬家，让国内也有好项目，您懂得
+后续会向国内多所大学提供免费公益服务，希望大家一起来！
 
 <h3 align="center">欢迎支持</h3>
 
+
+<h3>企业应用</h3>
+
+1： 现代化、开源的 Linux 服务器运维管理面板  1panel 国内镜像  http://www.gitpp.com/tomsonball/1Panel
+
+
+<h3>开发平台</h3>
 
 1: DevOpsGPT-AI驱动的智能软件开发平台 :   国内镜像 http://www.gitpp.com/fellagotone/DevOpsGPT
 
@@ -23,3 +31,5 @@
 <h3>【数据库】</h3>
 
 1: 能够替代MongoDB的开源数据库  http://www.gitpp.com/ferretblue/FerretDB
+
+
