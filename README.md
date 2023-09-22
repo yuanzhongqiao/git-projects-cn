@@ -13,10 +13,17 @@
 
 <h3 align="center">欢迎支持</h3>
 
+<h3>物联网</h3>
+
+1：国产第一的IOT平台 DC3    国内镜像：  http://www.gitpp.com/hongyuan/iot-dc3
 
 <h3>低代码平台</h3>
 
-1
+1：科学分析R语言低代码平台   国内镜像： http://www.gitpp.com/issacton/rstudio
+
+<h3>项目管理</h3>
+
+1：国产项目管理系统 禅道是第一款国产的开源项目管理软件。 国内镜像：http://www.gitpp.com/issacton/zentaopms
 
 
 <h3>科学研究</h3>
@@ -46,4 +53,5 @@
 
 <h3> ERP </h3>
 
-1： 全球第一的开源ERP系统，中国国内有很多人拿这个赚钱，已经成红海   国内镜像  http://www.gitpp.com/issacton/odoo
+1： 全球第一的开源ERP系统，中国国内有很多人拿这个赚钱，已经成红海   国内镜像  www.odoo.com
+
