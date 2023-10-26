@@ -55,3 +55,14 @@
 
 1： 全球第一的开源ERP系统，中国国内有很多人拿这个赚钱，已经成红海   国内镜像  www.odoo.com
 
+
+<h3> 医疗相关 </h3>
+
+  http://med.gitpp.com/
+
+<h3> 机器人相关 </h3>
+
+https://robot.gitpp.com/
+
+
+
